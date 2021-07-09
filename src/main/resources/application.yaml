@@ -7,7 +7,7 @@
 
 
 minio:
-  url: http://8.131.61.233:8080 #Minio服务所在地址
+  url: http://21.22.12.121:8080 #Minio服务所在地址
   bucketName: "apps" #存储桶名称
-  accessKey: "@jianDan111" #访问的key
-  secretKey: "@jianDan111" #访问的秘钥
+  accessKey: "111111" #访问的key
+  secretKey: "111111" #访问的秘钥
